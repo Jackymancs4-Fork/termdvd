@@ -1,4 +1,4 @@
-# termdvd
+# termdvd [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 A program that simulates the DVD video screensaver in the terminal.
 
 Now even people without a display server can enjoy the thrill of watching the DVD icon hit the corner. Amazing!
